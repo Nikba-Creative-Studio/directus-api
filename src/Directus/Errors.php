@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Nikba\Directus\API;
+namespace Nikba\Directus\Directus;
 
 /**
  * Errors

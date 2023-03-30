@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace Nikba\Directus;
 
 use Nikba\Directus\Request;
-use Nikba\Directus\API\Helpers;
+use Nikba\Directus\Directus\Helpers;
 
 /**
  * The main class for all Directus API-Requests.
